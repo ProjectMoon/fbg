@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/FactbookGenerator/!svn/ver/546/src/edu/uara/parser/integrated
+END
+IntegerRawData.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/FactbookGenerator/!svn/ver/251/src/edu/uara/parser/integrated/IntegerRawData.java
+END
+StringRawData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/FactbookGenerator/!svn/ver/251/src/edu/uara/parser/integrated/StringRawData.java
+END
+POPParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/FactbookGenerator/!svn/ver/470/src/edu/uara/parser/integrated/POPParser.java
+END
+BatchUploader.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/FactbookGenerator/!svn/ver/546/src/edu/uara/parser/integrated/BatchUploader.java
+END
+ParserUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/FactbookGenerator/!svn/ver/270/src/edu/uara/parser/integrated/ParserUtils.java
+END
+DoubleRawData.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/FactbookGenerator/!svn/ver/251/src/edu/uara/parser/integrated/DoubleRawData.java
+END
+DateRawData.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/FactbookGenerator/!svn/ver/251/src/edu/uara/parser/integrated/DateRawData.java
+END
+RawData.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/FactbookGenerator/!svn/ver/251/src/edu/uara/parser/integrated/RawData.java
+END
+EDSParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/FactbookGenerator/!svn/ver/470/src/edu/uara/parser/integrated/EDSParser.java
+END
+AISParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/FactbookGenerator/!svn/ver/470/src/edu/uara/parser/integrated/AISParser.java
+END
+DISParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/FactbookGenerator/!svn/ver/492/src/edu/uara/parser/integrated/DISParser.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/FactbookGenerator/!svn/ver/546/src/edu/uara/parser/integrated/Parser.java
+END
+EISParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/FactbookGenerator/!svn/ver/470/src/edu/uara/parser/integrated/EISParser.java
+END
+IntegratedParserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/FactbookGenerator/!svn/ver/546/src/edu/uara/parser/integrated/IntegratedParserManager.java
+END
+ParseableFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/FactbookGenerator/!svn/ver/546/src/edu/uara/parser/integrated/ParseableFile.java
+END

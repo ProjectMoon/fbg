@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/FactbookGenerator/!svn/ver/546/src/edu/uara/gui/tableeditor
+END
+SeriesColorEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/FactbookGenerator/!svn/ver/546/src/edu/uara/gui/tableeditor/SeriesColorEditor.java
+END
+SeriesColorEditor.form
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/FactbookGenerator/!svn/ver/528/src/edu/uara/gui/tableeditor/SeriesColorEditor.form
+END
+IDataRefreshListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/FactbookGenerator/!svn/ver/546/src/edu/uara/gui/tableeditor/IDataRefreshListener.java
+END
+ChartGenerationFrame.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/FactbookGenerator/!svn/ver/545/src/edu/uara/gui/tableeditor/ChartGenerationFrame.java
+END
+ChartGenerationFrame.form
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/FactbookGenerator/!svn/ver/545/src/edu/uara/gui/tableeditor/ChartGenerationFrame.form
+END
+DatasetEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/FactbookGenerator/!svn/ver/543/src/edu/uara/gui/tableeditor/DatasetEditor.java
+END
+DatasetEditor.form
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/FactbookGenerator/!svn/ver/520/src/edu/uara/gui/tableeditor/DatasetEditor.form
+END

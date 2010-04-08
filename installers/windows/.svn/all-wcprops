@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/FactbookGenerator/!svn/ver/514/installers/windows
+END
+win_install.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/FactbookGenerator/!svn/ver/514/installers/windows/win_install.nsi
+END
